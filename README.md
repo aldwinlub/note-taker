@@ -5,7 +5,8 @@ This project allows the user to be presented at a home page called "Note Taker" 
 
 ## GitHub Link:
 
-
+https://github.com/aldwinlub/note-taker
 
 ## Screen Shots!
 
+![The home page at localhost:3000](/screen-shot-of-home-page.png)
